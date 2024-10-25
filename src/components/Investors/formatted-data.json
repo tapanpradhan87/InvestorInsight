@@ -1,0 +1,2150 @@
+[
+  {
+    "id": "862",
+    "key": "863",
+    "name": "Ioo Gryffindor fund",
+    "type": "fund manager",
+    "address": "Singapore",
+    "totalCommitment": 3492000000,
+    "currency": "GBP",
+    "createdDate": "2000-07-06T00:00:00.000Z",
+    "commitments": [
+      {
+        "id": "3",
+        "assetClass": "Infrastructure",
+        "amount": 15000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "30",
+        "assetClass": "Hedge Funds",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "33",
+        "assetClass": "Private Equity",
+        "amount": 45000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "57",
+        "assetClass": "Hedge Funds",
+        "amount": 32000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "75",
+        "assetClass": "Private Equity",
+        "amount": 70000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "78",
+        "assetClass": "Hedge Funds",
+        "amount": 27000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "90",
+        "assetClass": "Hedge Funds",
+        "amount": 41000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "96",
+        "assetClass": "Infrastructure",
+        "amount": 66000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "108",
+        "assetClass": "Hedge Funds",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "111",
+        "assetClass": "Natural Resources",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "117",
+        "assetClass": "Private Debt",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "144",
+        "assetClass": "Private Equity",
+        "amount": 12000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "150",
+        "assetClass": "Hedge Funds",
+        "amount": 16000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "159",
+        "assetClass": "Infrastructure",
+        "amount": 15000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "162",
+        "assetClass": "Natural Resources",
+        "amount": 45000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "198",
+        "assetClass": "Private Debt",
+        "amount": 76000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "201",
+        "assetClass": "Private Equity",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "204",
+        "assetClass": "Real Estate",
+        "amount": 44000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "210",
+        "assetClass": "Infrastructure",
+        "amount": 32000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "219",
+        "assetClass": "Natural Resources",
+        "amount": 88000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "231",
+        "assetClass": "Real Estate",
+        "amount": 79000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "234",
+        "assetClass": "Real Estate",
+        "amount": 71000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "258",
+        "assetClass": "Natural Resources",
+        "amount": 49000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "261",
+        "assetClass": "Private Equity",
+        "amount": 40000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "267",
+        "assetClass": "Private Equity",
+        "amount": 35000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "279",
+        "assetClass": "Private Equity",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "288",
+        "assetClass": "Infrastructure",
+        "amount": 60000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "294",
+        "assetClass": "Private Equity",
+        "amount": 66000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "297",
+        "assetClass": "Natural Resources",
+        "amount": 65000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "309",
+        "assetClass": "Hedge Funds",
+        "amount": 7000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "333",
+        "assetClass": "Real Estate",
+        "amount": 91000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "360",
+        "assetClass": "Hedge Funds",
+        "amount": 54000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "372",
+        "assetClass": "Natural Resources",
+        "amount": 72000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "390",
+        "assetClass": "Private Debt",
+        "amount": 92000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "396",
+        "assetClass": "Natural Resources",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "399",
+        "assetClass": "Private Debt",
+        "amount": 20000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "402",
+        "assetClass": "Private Equity",
+        "amount": 81000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "411",
+        "assetClass": "Private Debt",
+        "amount": 60000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "450",
+        "assetClass": "Real Estate",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "465",
+        "assetClass": "Hedge Funds",
+        "amount": 1000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "474",
+        "assetClass": "Infrastructure",
+        "amount": 63000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "477",
+        "assetClass": "Private Equity",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "480",
+        "assetClass": "Natural Resources",
+        "amount": 94000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "483",
+        "assetClass": "Infrastructure",
+        "amount": 42000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "492",
+        "assetClass": "Real Estate",
+        "amount": 45000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "498",
+        "assetClass": "Hedge Funds",
+        "amount": 39000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "504",
+        "assetClass": "Private Debt",
+        "amount": 70000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "516",
+        "assetClass": "Private Equity",
+        "amount": 9000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "540",
+        "assetClass": "Real Estate",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "570",
+        "assetClass": "Real Estate",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "594",
+        "assetClass": "Hedge Funds",
+        "amount": 73000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "597",
+        "assetClass": "Private Equity",
+        "amount": 18000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "600",
+        "assetClass": "Natural Resources",
+        "amount": 90000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "603",
+        "assetClass": "Private Debt",
+        "amount": 92000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "612",
+        "assetClass": "Private Equity",
+        "amount": 94000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "624",
+        "assetClass": "Private Equity",
+        "amount": 24000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "657",
+        "assetClass": "Infrastructure",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "672",
+        "assetClass": "Hedge Funds",
+        "amount": 50000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "678",
+        "assetClass": "Natural Resources",
+        "amount": 13000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "684",
+        "assetClass": "Private Equity",
+        "amount": 93000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "693",
+        "assetClass": "Hedge Funds",
+        "amount": 54000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "702",
+        "assetClass": "Real Estate",
+        "amount": 10000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "708",
+        "assetClass": "Natural Resources",
+        "amount": 95000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "723",
+        "assetClass": "Natural Resources",
+        "amount": 42000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "753",
+        "assetClass": "Real Estate",
+        "amount": 83000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "765",
+        "assetClass": "Private Debt",
+        "amount": 39000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "771",
+        "assetClass": "Real Estate",
+        "amount": 7000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "774",
+        "assetClass": "Natural Resources",
+        "amount": 5000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "783",
+        "assetClass": "Infrastructure",
+        "amount": 95000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "798",
+        "assetClass": "Natural Resources",
+        "amount": 1000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "816",
+        "assetClass": "Private Equity",
+        "amount": 6000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "834",
+        "assetClass": "Infrastructure",
+        "amount": 89000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "846",
+        "assetClass": "Hedge Funds",
+        "amount": 46000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "858",
+        "assetClass": "Infrastructure",
+        "amount": 26000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "864",
+        "assetClass": "Hedge Funds",
+        "amount": 45000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "889",
+    "key": "890",
+    "name": "Ibx Skywalker ltd",
+    "type": "asset manager",
+    "address": "United States",
+    "totalCommitment": 3930000000,
+    "currency": "GBP",
+    "createdDate": "1997-07-21T00:00:00.000Z",
+    "commitments": [
+      {
+        "id": "6",
+        "assetClass": "Infrastructure",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "18",
+        "assetClass": "Real Estate",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "21",
+        "assetClass": "Real Estate",
+        "amount": 83000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "27",
+        "assetClass": "Hedge Funds",
+        "amount": 85000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "42",
+        "assetClass": "Real Estate",
+        "amount": 12000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "45",
+        "assetClass": "Natural Resources",
+        "amount": 30000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "51",
+        "assetClass": "Real Estate",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "69",
+        "assetClass": "Hedge Funds",
+        "amount": 63000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "87",
+        "assetClass": "Infrastructure",
+        "amount": 10000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "93",
+        "assetClass": "Private Equity",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "99",
+        "assetClass": "Private Equity",
+        "amount": 75000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "102",
+        "assetClass": "Private Equity",
+        "amount": 74000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "114",
+        "assetClass": "Infrastructure",
+        "amount": 60000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "120",
+        "assetClass": "Real Estate",
+        "amount": 75000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "168",
+        "assetClass": "Private Equity",
+        "amount": 78000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "171",
+        "assetClass": "Private Debt",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "183",
+        "assetClass": "Hedge Funds",
+        "amount": 87000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "195",
+        "assetClass": "Real Estate",
+        "amount": 15000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "237",
+        "assetClass": "Hedge Funds",
+        "amount": 16000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "255",
+        "assetClass": "Hedge Funds",
+        "amount": 18000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "303",
+        "assetClass": "Private Equity",
+        "amount": 78000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "312",
+        "assetClass": "Hedge Funds",
+        "amount": 95000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "315",
+        "assetClass": "Private Debt",
+        "amount": 54000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "318",
+        "assetClass": "Private Debt",
+        "amount": 75000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "321",
+        "assetClass": "Real Estate",
+        "amount": 89000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "327",
+        "assetClass": "Hedge Funds",
+        "amount": 32000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "336",
+        "assetClass": "Hedge Funds",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "342",
+        "assetClass": "Natural Resources",
+        "amount": 37000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "345",
+        "assetClass": "Infrastructure",
+        "amount": 37000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "354",
+        "assetClass": "Private Debt",
+        "amount": 80000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "369",
+        "assetClass": "Real Estate",
+        "amount": 47000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "384",
+        "assetClass": "Natural Resources",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "387",
+        "assetClass": "Hedge Funds",
+        "amount": 76000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "393",
+        "assetClass": "Infrastructure",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "417",
+        "assetClass": "Private Equity",
+        "amount": 81000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "423",
+        "assetClass": "Real Estate",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "435",
+        "assetClass": "Hedge Funds",
+        "amount": 67000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "441",
+        "assetClass": "Natural Resources",
+        "amount": 22000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "444",
+        "assetClass": "Natural Resources",
+        "amount": 94000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "453",
+        "assetClass": "Private Debt",
+        "amount": 92000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "462",
+        "assetClass": "Private Equity",
+        "amount": 21000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "471",
+        "assetClass": "Hedge Funds",
+        "amount": 41000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "486",
+        "assetClass": "Infrastructure",
+        "amount": 40000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "495",
+        "assetClass": "Private Debt",
+        "amount": 25000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "507",
+        "assetClass": "Private Debt",
+        "amount": 52000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "519",
+        "assetClass": "Natural Resources",
+        "amount": 59000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "525",
+        "assetClass": "Private Debt",
+        "amount": 3000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "534",
+        "assetClass": "Real Estate",
+        "amount": 20000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "558",
+        "assetClass": "Natural Resources",
+        "amount": 18000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "564",
+        "assetClass": "Private Debt",
+        "amount": 34000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "588",
+        "assetClass": "Private Equity",
+        "amount": 49000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "621",
+        "assetClass": "Natural Resources",
+        "amount": 56000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "627",
+        "assetClass": "Private Debt",
+        "amount": 86000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "633",
+        "assetClass": "Infrastructure",
+        "amount": 28000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "645",
+        "assetClass": "Natural Resources",
+        "amount": 98000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "654",
+        "assetClass": "Infrastructure",
+        "amount": 38000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "660",
+        "assetClass": "Infrastructure",
+        "amount": 57000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "666",
+        "assetClass": "Private Debt",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "669",
+        "assetClass": "Infrastructure",
+        "amount": 77000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "681",
+        "assetClass": "Private Equity",
+        "amount": 19000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "696",
+        "assetClass": "Real Estate",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "699",
+        "assetClass": "Real Estate",
+        "amount": 42000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "714",
+        "assetClass": "Natural Resources",
+        "amount": 9000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "717",
+        "assetClass": "Private Equity",
+        "amount": 60000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "732",
+        "assetClass": "Natural Resources",
+        "amount": 50000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "735",
+        "assetClass": "Private Equity",
+        "amount": 32000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "738",
+        "assetClass": "Private Debt",
+        "amount": 79000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "747",
+        "assetClass": "Real Estate",
+        "amount": 24000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "750",
+        "assetClass": "Infrastructure",
+        "amount": 38000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "762",
+        "assetClass": "Natural Resources",
+        "amount": 50000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "786",
+        "assetClass": "Real Estate",
+        "amount": 21000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "801",
+        "assetClass": "Real Estate",
+        "amount": 48000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "813",
+        "assetClass": "Private Debt",
+        "amount": 42000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "825",
+        "assetClass": "Private Debt",
+        "amount": 73000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "831",
+        "assetClass": "Infrastructure",
+        "amount": 0,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "843",
+        "assetClass": "Private Debt",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "849",
+        "assetClass": "Private Equity",
+        "amount": 68000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "852",
+        "assetClass": "Private Equity",
+        "amount": 16000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "855",
+        "assetClass": "Natural Resources",
+        "amount": 29000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "867",
+        "assetClass": "Infrastructure",
+        "amount": 63000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "873",
+        "assetClass": "Natural Resources",
+        "amount": 20000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "888",
+        "assetClass": "Private Debt",
+        "amount": 57000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "891",
+        "assetClass": "Real Estate",
+        "amount": 37000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "898",
+    "key": "899",
+    "name": "Cza Weasley fund",
+    "type": "wealth manager",
+    "address": "United Kingdom",
+    "totalCommitment": 2430000000,
+    "currency": "GBP",
+    "createdDate": "2002-05-29T00:00:00.000Z",
+    "commitments": [
+      {
+        "id": "9",
+        "assetClass": "Hedge Funds",
+        "amount": 58000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "39",
+        "assetClass": "Private Equity",
+        "amount": 45000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "66",
+        "assetClass": "Hedge Funds",
+        "amount": 61000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "81",
+        "assetClass": "Hedge Funds",
+        "amount": 51000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "147",
+        "assetClass": "Private Equity",
+        "amount": 22000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "156",
+        "assetClass": "Infrastructure",
+        "amount": 40000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "174",
+        "assetClass": "Real Estate",
+        "amount": 65000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "180",
+        "assetClass": "Natural Resources",
+        "amount": 11000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "192",
+        "assetClass": "Natural Resources",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "216",
+        "assetClass": "Private Equity",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "240",
+        "assetClass": "Hedge Funds",
+        "amount": 14000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "246",
+        "assetClass": "Infrastructure",
+        "amount": 92000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "270",
+        "assetClass": "Private Debt",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "273",
+        "assetClass": "Natural Resources",
+        "amount": 53000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "285",
+        "assetClass": "Natural Resources",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "291",
+        "assetClass": "Natural Resources",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "300",
+        "assetClass": "Natural Resources",
+        "amount": 54000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "306",
+        "assetClass": "Private Debt",
+        "amount": 73000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "324",
+        "assetClass": "Infrastructure",
+        "amount": 39000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "339",
+        "assetClass": "Natural Resources",
+        "amount": 7000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "348",
+        "assetClass": "Private Debt",
+        "amount": 52000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "363",
+        "assetClass": "Private Equity",
+        "amount": 96000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "366",
+        "assetClass": "Hedge Funds",
+        "amount": 18000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "414",
+        "assetClass": "Real Estate",
+        "amount": 89000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "420",
+        "assetClass": "Hedge Funds",
+        "amount": 22000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "426",
+        "assetClass": "Private Debt",
+        "amount": 51000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "429",
+        "assetClass": "Real Estate",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "447",
+        "assetClass": "Private Debt",
+        "amount": 8000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "459",
+        "assetClass": "Infrastructure",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "468",
+        "assetClass": "Hedge Funds",
+        "amount": 28000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "489",
+        "assetClass": "Private Equity",
+        "amount": 68000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "510",
+        "assetClass": "Private Debt",
+        "amount": 45000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "537",
+        "assetClass": "Infrastructure",
+        "amount": 12000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "549",
+        "assetClass": "Natural Resources",
+        "amount": 47000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "573",
+        "assetClass": "Hedge Funds",
+        "amount": 22000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "579",
+        "assetClass": "Real Estate",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "585",
+        "assetClass": "Private Debt",
+        "amount": 18000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "591",
+        "assetClass": "Private Debt",
+        "amount": 5000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "606",
+        "assetClass": "Private Equity",
+        "amount": 23000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "618",
+        "assetClass": "Infrastructure",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "636",
+        "assetClass": "Infrastructure",
+        "amount": 41000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "639",
+        "assetClass": "Private Debt",
+        "amount": 19000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "648",
+        "assetClass": "Real Estate",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "675",
+        "assetClass": "Hedge Funds",
+        "amount": 9000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "711",
+        "assetClass": "Private Equity",
+        "amount": 10000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "720",
+        "assetClass": "Hedge Funds",
+        "amount": 30000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "726",
+        "assetClass": "Natural Resources",
+        "amount": 11000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "744",
+        "assetClass": "Real Estate",
+        "amount": 9000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "759",
+        "assetClass": "Private Equity",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "768",
+        "assetClass": "Natural Resources",
+        "amount": 60000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "777",
+        "assetClass": "Private Equity",
+        "amount": 69000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "780",
+        "assetClass": "Private Equity",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "789",
+        "assetClass": "Hedge Funds",
+        "amount": 48000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "792",
+        "assetClass": "Private Equity",
+        "amount": 95000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "837",
+        "assetClass": "Real Estate",
+        "amount": 21000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "840",
+        "assetClass": "Private Equity",
+        "amount": 12000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "885",
+        "assetClass": "Private Debt",
+        "amount": 20000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "897",
+        "assetClass": "Real Estate",
+        "amount": 37000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "900",
+        "assetClass": "Private Equity",
+        "amount": 34000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      }
+    ]
+  },
+  {
+    "id": "892",
+    "key": "893",
+    "name": "Mjd Jedi fund",
+    "type": "bank",
+    "address": "China",
+    "totalCommitment": 4083000000,
+    "currency": "GBP",
+    "createdDate": "2010-06-08T00:00:00.000Z",
+    "commitments": [
+      {
+        "id": "12",
+        "assetClass": "Private Equity",
+        "amount": 72000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "15",
+        "assetClass": "Natural Resources",
+        "amount": 1000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "24",
+        "assetClass": "Hedge Funds",
+        "amount": 28000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "36",
+        "assetClass": "Real Estate",
+        "amount": 48000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "48",
+        "assetClass": "Real Estate",
+        "amount": 94000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "54",
+        "assetClass": "Private Debt",
+        "amount": 86000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "60",
+        "assetClass": "Natural Resources",
+        "amount": 38000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "63",
+        "assetClass": "Real Estate",
+        "amount": 6000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "72",
+        "assetClass": "Infrastructure",
+        "amount": 15000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "84",
+        "assetClass": "Real Estate",
+        "amount": 92000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "105",
+        "assetClass": "Natural Resources",
+        "amount": 86000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "123",
+        "assetClass": "Natural Resources",
+        "amount": 86000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "126",
+        "assetClass": "Infrastructure",
+        "amount": 63000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "129",
+        "assetClass": "Infrastructure",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "132",
+        "assetClass": "Private Equity",
+        "amount": 82000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "135",
+        "assetClass": "Infrastructure",
+        "amount": 87000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "138",
+        "assetClass": "Hedge Funds",
+        "amount": 11000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "141",
+        "assetClass": "Natural Resources",
+        "amount": 89000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "153",
+        "assetClass": "Private Equity",
+        "amount": 24000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "165",
+        "assetClass": "Private Debt",
+        "amount": 36000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "177",
+        "assetClass": "Private Debt",
+        "amount": 70000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "186",
+        "assetClass": "Private Equity",
+        "amount": 5000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "189",
+        "assetClass": "Real Estate",
+        "amount": 18000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "207",
+        "assetClass": "Private Equity",
+        "amount": 8000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "213",
+        "assetClass": "Natural Resources",
+        "amount": 62000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "222",
+        "assetClass": "Private Equity",
+        "amount": 30000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "225",
+        "assetClass": "Natural Resources",
+        "amount": 4000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "228",
+        "assetClass": "Infrastructure",
+        "amount": 59000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "243",
+        "assetClass": "Private Debt",
+        "amount": 58000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "249",
+        "assetClass": "Real Estate",
+        "amount": 47000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "252",
+        "assetClass": "Private Equity",
+        "amount": 94000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "264",
+        "assetClass": "Hedge Funds",
+        "amount": 96000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "276",
+        "assetClass": "Infrastructure",
+        "amount": 14000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "282",
+        "assetClass": "Private Debt",
+        "amount": 63000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "330",
+        "assetClass": "Hedge Funds",
+        "amount": 10000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "351",
+        "assetClass": "Infrastructure",
+        "amount": 89000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "357",
+        "assetClass": "Hedge Funds",
+        "amount": 67000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "375",
+        "assetClass": "Private Equity",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "378",
+        "assetClass": "Infrastructure",
+        "amount": 93000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "381",
+        "assetClass": "Natural Resources",
+        "amount": 77000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "405",
+        "assetClass": "Natural Resources",
+        "amount": 51000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "408",
+        "assetClass": "Real Estate",
+        "amount": 53000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "432",
+        "assetClass": "Private Equity",
+        "amount": 27000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "438",
+        "assetClass": "Hedge Funds",
+        "amount": 3000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "456",
+        "assetClass": "Real Estate",
+        "amount": 75000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "501",
+        "assetClass": "Private Debt",
+        "amount": 80000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "513",
+        "assetClass": "Private Debt",
+        "amount": 81000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "522",
+        "assetClass": "Private Equity",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "528",
+        "assetClass": "Real Estate",
+        "amount": 97000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "531",
+        "assetClass": "Real Estate",
+        "amount": 1000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "543",
+        "assetClass": "Natural Resources",
+        "amount": 12000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "546",
+        "assetClass": "Private Debt",
+        "amount": 42000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "552",
+        "assetClass": "Natural Resources",
+        "amount": 32000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "555",
+        "assetClass": "Private Debt",
+        "amount": 5000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "561",
+        "assetClass": "Real Estate",
+        "amount": 59000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "567",
+        "assetClass": "Private Debt",
+        "amount": 61000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "576",
+        "assetClass": "Private Equity",
+        "amount": 52000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "582",
+        "assetClass": "Hedge Funds",
+        "amount": 76000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "609",
+        "assetClass": "Private Equity",
+        "amount": 1000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "615",
+        "assetClass": "Natural Resources",
+        "amount": 43000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "630",
+        "assetClass": "Hedge Funds",
+        "amount": 19000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "642",
+        "assetClass": "Real Estate",
+        "amount": 63000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "651",
+        "assetClass": "Infrastructure",
+        "amount": 26000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "663",
+        "assetClass": "Natural Resources",
+        "amount": 87000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "687",
+        "assetClass": "Hedge Funds",
+        "amount": 82000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "690",
+        "assetClass": "Hedge Funds",
+        "amount": 53000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "705",
+        "assetClass": "Private Debt",
+        "amount": 93000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "729",
+        "assetClass": "Natural Resources",
+        "amount": 96000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "741",
+        "assetClass": "Real Estate",
+        "amount": 31000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "756",
+        "assetClass": "Infrastructure",
+        "amount": 72000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "795",
+        "assetClass": "Real Estate",
+        "amount": 89000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "804",
+        "assetClass": "Infrastructure",
+        "amount": 42000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "807",
+        "assetClass": "Private Equity",
+        "amount": 5000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "810",
+        "assetClass": "Private Equity",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "819",
+        "assetClass": "Private Equity",
+        "amount": 6000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "822",
+        "assetClass": "Real Estate",
+        "amount": 17000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "828",
+        "assetClass": "Infrastructure",
+        "amount": 64000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "861",
+        "assetClass": "Infrastructure",
+        "amount": 8000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "870",
+        "assetClass": "Hedge Funds",
+        "amount": 44000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "876",
+        "assetClass": "Hedge Funds",
+        "amount": 84000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "879",
+        "assetClass": "Private Debt",
+        "amount": 55000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "882",
+        "assetClass": "Private Equity",
+        "amount": 68000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      },
+      {
+        "id": "894",
+        "assetClass": "Natural Resources",
+        "amount": 13000000,
+        "currency": "GBP",
+        "updatedDate": "2024-02-21T00:00:00.000Z"
+      }
+    ]
+  }
+]
